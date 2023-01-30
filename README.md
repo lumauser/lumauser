@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning html,css,js and Python.
 - 💬 Ask me about anything related to coding!
 - 📫 How to reach me: email:jihoepicgames@gmail.com
-
-
