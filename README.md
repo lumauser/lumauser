@@ -4,5 +4,7 @@
 - 💬 Ask me about anything related to coding!
 - 📫 How to reach me: email:jihoepicgames@gmail.com
 
-     -                 Visitor Count
+<center>
+     <p>Visitor Count</p>
 ![Visitor Count](https://profile-counter.glitch.me/{lumauser}/count.svg)
+</center>
