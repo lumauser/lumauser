@@ -5,4 +5,4 @@
 - 📫 How to reach me: email:jihoepicgames@gmail.com
 
 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{lumauser}/count.svg)
+<br >![Visitor Count](https://profile-counter.glitch.me/{lumauser}/count.svg)
