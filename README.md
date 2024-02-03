@@ -1,9 +1,4 @@
-👋 Hi, I'm Lumauser
-- 👀 I’m interested in making web apps and console apps.
-- 🌱 I’m currently learning html,css,js and Python.
-- 💬 Ask me about anything related to coding!
-- 📫 How to reach me: email:jihoepicgames@gmail.com
-
+# This about me is currently being worked on
 Visitor Count
 <br >![Visitor Count](https://profile-counter.glitch.me/{lumauser}/count.svg)
 
@@ -16,5 +11,6 @@ Visitor Count
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 <br >[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumauser&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <br >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumauser)
