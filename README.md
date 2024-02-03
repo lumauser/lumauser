@@ -1,4 +1,4 @@
-** This about me is currently being worked on **
+**This about me is currently being worked on**
 Visitor Count
 <br >![Visitor Count](https://profile-counter.glitch.me/{lumauser}/count.svg)
 
