@@ -2,7 +2,7 @@
 # About Me
 Hi! I am Lumauser! An intermediate programmer who mostly specializes in Python and Javascript. I have been coding for about 3 years and am a self-taught programmer using documentation and YouTube videos to learn. I'm working on projects using Python and Javascript and continuing to master these programming languages. I don't post a lot of new repositories that often but I am planning to do so in the future. If you want to contact me, feel free to email me. Email: jihoepicgames@gmail.com (ik its quirky)
 
-# <br >Programming Languages and Tools:</p>
+# <br >Programming Languages and Tools:(some of these I barely use)</p>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
