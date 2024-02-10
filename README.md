@@ -36,5 +36,5 @@ Hi! I am Lumauser! An intermediate programmer who mostly specializes in Python a
 ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 
 # <br >Github Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![lumauser's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumauser&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumauser&layout=compact)
