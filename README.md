@@ -37,4 +37,4 @@ Hi! I am Lumauser! An intermediate programmer who mostly specializes in Python a
 
 # <br >Github Statistics
 ![lumauser's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumauser&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumauser&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumauser&layout=compact&theme=dark)
